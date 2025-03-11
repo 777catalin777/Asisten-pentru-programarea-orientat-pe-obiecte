@@ -1,0 +1,6 @@
+
+Masina B123XYZ 8:00 12:00.  
+Motocicleta C456ABC 10:00 13:00.  
+Camion D789DEF 7:00 11:00. 
+Bicicleta E101GHI 9:00 12:00.  
+Bicicleta F202JKL 14:00 18:00.  
