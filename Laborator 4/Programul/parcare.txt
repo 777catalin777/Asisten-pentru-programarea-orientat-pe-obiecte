@@ -1,0 +1,3 @@
+Masina B123XYZ 8 12
+Motocicleta B987XYZ 9 11
+Camion B456XYZ 7 13
